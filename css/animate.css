@@ -4,7 +4,10 @@ slideDown
 ==============================================
 */
 
-body{background: #ddd;}
+body{
+	background: #ddd;
+	width: 960px;
+}
 .slideDown{
 	animation-name: slideDown;
 	-webkit-animation-name: slideDown;	
