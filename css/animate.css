@@ -4,7 +4,7 @@ slideDown
 ==============================================
 */
 
-
+#anim_block{position:absolute;width:100px;top:75px;left:100px;}
 .slideDown{
 	animation-name: slideDown;
 	-webkit-animation-name: slideDown;	
