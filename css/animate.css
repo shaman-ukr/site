@@ -8,6 +8,10 @@ body{
 	background: #ddd;
 	width: 960px;
 }
+
+#anim_block{position:absolute;width:100px;top:75px;left:100px;}
+#anim_block2{position:absolute;width:100px;top:75px;right:100px;}
+
 .slideDown{
 	animation-name: slideDown;
 	-webkit-animation-name: slideDown;	
